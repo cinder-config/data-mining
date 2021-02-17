@@ -1,3 +1,3 @@
-# CINDER
+# CINDER - Data mining 
 
-TODO: Write README
+Repository used to extract the data from GHTorrent & filter according to selection criterias
